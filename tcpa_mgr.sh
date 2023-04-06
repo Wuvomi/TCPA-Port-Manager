@@ -99,3 +99,4 @@ EOL
 
 clear && 
 chmod +x /usr/local/bin/tcpa
+echo "TCPA 端口管理工具已经安装。直接在终端执行tcpa即可使用。"
